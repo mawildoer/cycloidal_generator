@@ -2,6 +2,7 @@
 A cycloidal reduction drive generator script for Fusion360!
 
 ![Go to media folder](https://raw.githubusercontent.com/mawildoer/cycloidal_generator/master/media/printed_drive.gif)
+![Go to media folder](https://raw.githubusercontent.com/mawildoer/cycloidal_generator/master/media/machined_drive.gif)
 
 There are more videos and pictures in the media folder :)
 
