@@ -1,5 +1,5 @@
-#Author-
-#Description-
+#Author - mawildoer
+#Description - cycloidal drive generator
 
 import adsk.core, adsk.fusion, adsk.cam, traceback
 import math
