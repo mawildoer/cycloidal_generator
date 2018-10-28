@@ -16,3 +16,5 @@ You can change the design parameters be editing the top of the file:
 ![Go to media folder](https://github.com/mawildoer/cycloidal_generator/blob/master/media/how_to_change_parameters.PNG)
 
 Happy building! I'd love to see what you can do with them.
+
+### Credit to Narayan Powderly for the machined version!
