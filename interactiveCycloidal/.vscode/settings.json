@@ -1,0 +1,6 @@
+{
+	"python.autoComplete.extraPaths":	["/Users/colinsnow1/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Python/defs"],
+	"python.pythonPath":	"/usr/local/bin/python3",
+	"python.linting.pylintEnabled": true,
+	"python.linting.enabled": true
+}
